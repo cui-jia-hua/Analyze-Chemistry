@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>picture/password.png</file>
+        <file>picture/username.png</file>
+        <file>picture/start_background.png</file>
+        <file>picture/stu_background.png</file>
+        <file>picture/教师登录界面.png</file>
+        <file>picture/功能选择界面.png</file>
+        <file>picture/register.png</file>
+        <file>picture/button.png</file>
+        <file>picture/橙色按钮.png</file>
+        <file>picture/蓝色按钮.png</file>
+        <file>picture/黄色按钮.png</file>
+        <file>picture/亮蓝色按钮.png</file>
+        <file>picture/title.png</file>
+        <file>title.ico</file>
+        <file>picture/修改按钮-橙色.png</file>
+        <file>picture/修改按钮-蓝绿色.png</file>
+        <file>picture/绿色按钮.png</file>
+        <file>picture/新修改按钮-蓝色.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>style/stu_login.qss</file>
+        <file>style/style.qss</file>
+    </qresource>
+</RCC>

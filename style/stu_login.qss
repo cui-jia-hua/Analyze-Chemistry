@@ -1,0 +1,21 @@
+/* Mixer Midi Track Style*//*{{{*/
+QFrame#MidiTrackStrip QLabel {
+background-color: none;
+color: #d6dfd6;
+font-family: "fixed-width";
+font-weight: bold;
+font-size: 10px;
+}
+QFrame#MidiTrackStrip QLabel#MidiTrackLabel {
+    border-top: 1px solid #01e6ee;
+    border-bottom: 1px solid #01e6ee;
+    border-image: url(:/images/frame.png) 4;
+border-radius: 3px;
+background-color: #141414;
+font-size: 10px;
+padding: 3px;
+color: #01e6ee;
+font-family: "fixed-width";
+font-weight: bold;
+font-size: 10px;
+}/*}}}*/

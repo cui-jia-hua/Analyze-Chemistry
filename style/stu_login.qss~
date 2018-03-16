@@ -1,0 +1,27 @@
+QDialog{background:rgb(229, 255, 239)}
+
+QMenuBar{background:url(:/image/header.bmp)}
+
+QStatusBar{background:url(:/image/header.bmp)}
+
+QPushButton{background:url(:/image/header.bmp)}
+
+QLCDNumber{background:url(:/image/lcd.bmp)}
+
+QLabel{color: rgb(0, 0, 255)}
+
+QDial{background-color: rgb(67, 67, 67)}
+
+QGroupBox {
+
+border-width:2px;
+
+border-style:solid;
+
+border-color:#FFFFFF;
+
+}
+
+QGroupBox{color: rgb(255,255, 255)}
+
+QToolButton{border-style: flat;}
